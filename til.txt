@@ -6,4 +6,8 @@
 
 git initialize - 프로젝트에 Git 사용으로 폴더 추가 (앞으로 내용 관리)
 
+commit - 프로젝트의 상태저장, 누가, 언제, 무슨 커밋내용이였는지 메시지 추가 저장 
 
+add(staging) - commit 반영할 폴더들 선택 추가 관리
+
+commit history - commit 한 순서 나열 
